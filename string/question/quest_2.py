@@ -1,5 +1,6 @@
 print("Program that prints the following pattern without using any nested loop")
 print('''
+Pattern 👇
 #
 ##
 ###

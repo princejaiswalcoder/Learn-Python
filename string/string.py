@@ -1,5 +1,6 @@
-# Anything that comes inside a double quote becomes a string
+# Anything that comes inside a double quote or triple quotes becomes a string
 str1 = "Hello , This is a string"
+
 
 # Membership Operator
 # print("P" in "Prince")
